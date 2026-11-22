@@ -1,0 +1,14 @@
+.terraform/
+keys/*
+!keys/*.pub
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+*.tfvars.json
+.env
+.env.*
+.secrets/
+*.pem
+*.key
+crash.log

@@ -446,15 +446,9 @@ terraform destroy
 
 ## 15. Author
 
-**Name:** _Your Name_
+**Name:** Emad Gerges Samaan
 **Role:** DevOps Engineer
-**LinkedIn:** _link_
-**GitHub:** _link_
+**LinkedIn:** [_link_](https://www.linkedin.com/in/emad-gerges-samaan-gad/)
 
 Built as part of the **Senior Academy — DevOps Workshop Advanced Diploma**.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.

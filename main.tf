@@ -201,8 +201,8 @@ resource "aws_security_group" "rmq" {
 
 # EC2 key pairs store public keys only. SSH provisioners below read local private keys.
 resource "aws_key_pair" "admin" {
-  key_name   = "vprofile-admin"
-  public_key = file("${path.module}/keys/admin.pub")
+  key_name   = "emad-vprofile-key"
+  public_key = file("${path.module}/keys/emad_key.pub")
 }
 resource "aws_key_pair" "managed" {
   key_name   = "vprofile-managed"

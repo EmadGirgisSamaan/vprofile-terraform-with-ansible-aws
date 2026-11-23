@@ -1,14 +1,8 @@
-.terraform/
 keys/*
 !keys/*.pub
+*.pem
 *.tfstate
 *.tfstate.*
-*.tfplan
-*.tfvars
-*.tfvars.json
-.env
-.env.*
-.secrets/
-*.pem
-*.key
+tfplan
+.terraform/
 crash.log
